@@ -23,17 +23,23 @@
   then quit out of mysql shell
 
   populate the server using the command 
-  node seed
+  node seeds
 
   then start the server using the command 
   npm start
 
   once the server is started you can use insomnia core to test and use get, post, put and delete routes
+
+  ## Walkthrough video
+  https://youtu.be/xhvDjJ2p_eQ 
+
+
   ## Contributors
   Khan Adams
   ## License
   This project is cover under Academic License (https://choosealicense.com/licenses/Academic/)
-  ## Test 
+  
+  
   
   ## Questions
   
